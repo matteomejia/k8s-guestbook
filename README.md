@@ -49,7 +49,7 @@ Objetivo: Aplicación de reservas online.
 
 Arquitectura: 
 
-![arquitecture](./images/arquitecture.png)
+![arquitectura](./images/architecture.png)
 
 Funcionalidad: Agendar una reserva (write) y leer reservas (read).
 
