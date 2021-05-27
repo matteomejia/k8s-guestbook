@@ -1,4 +1,4 @@
-# Tarea 2 de Cloud ComputingÑ k8s-guestbook
+# Tarea 2 de Cloud Computing: k8s-guestbook
 ## Integrantes:
 - Sebastián Hurtado
 - Francisco Mejía
