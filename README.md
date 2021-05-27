@@ -46,9 +46,13 @@ minikube start --nodes 3
 
 ### Tarea 2.3
 Objetivo: Aplicación de reservas online.
+
 Arquitectura: 
+
 ![arquitecture](./images/arquitecture.png)
+
 Funcionalidad: Agendar una reserva (write) y leer reservas (read).
+
 Herramientas: Go, MongoDB.
 
 ### Tarea 2.5
