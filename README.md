@@ -1,6 +1,7 @@
-# k8s-guestbook
-
-## Cosas
+# Tarea 2 de Cloud ComputingÑ k8s-guestbook
+## Integrantes:
+- Sebastián Hurtado
+- Francisco Mejía
 
 ## Entregables
 
@@ -45,15 +46,27 @@ minikube start --nodes 3
 ![kubectl get nodes -owide](./images/command_04.png)
 
 ### Tarea 2.3
-Objetivo: Aplicación de reservas online.
+Objetivo: Aplicación para realizar reservas mediante mensajería instantánea online.
 
-Arquitectura: 
+#### Arquitectura: 
 
 ![arquitectura](./images/architecture.png)
 
-Funcionalidad: Agendar una reserva (write) y leer reservas (read).
+#### Funcionalidades: 
+- Envíar un mensaje (write) para agendar.
+- Leer los mensajes/reservas recibidos (read).
 
-Herramientas: Go, MongoDB.
+#### Herramientas:
+- Go: para servir el cliente.
+- Redis: Para guardar las reservas.
+
+
+### Tarea 2.4
+
+- Video de demostración: [enlace](https://www.loom.com/share/7e561c4c14694a6d9ea6c63ac46dfafa)
 
 ### Tarea 2.5
+
+#### Diagrama de flujos de la aplicación.
+
 ![flow_a](./images/flow_a.png)
