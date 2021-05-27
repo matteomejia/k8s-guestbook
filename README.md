@@ -45,4 +45,11 @@ minikube start --nodes 3
 ![kubectl get nodes -owide](./images/command_04.png)
 
 ### Tarea 2.3
+Objetivo: Aplicación de reservas online.
+Arquitectura: 
+![arquitecture](./images/arquitecture.png)
+Funcionalidad: Agendar una reserva (write) y leer reservas (read).
+Herramientas: Go, MongoDB.
 
+### Tarea 2.5
+![flow_a](./images/flow_a.png)
